@@ -2,7 +2,9 @@
   <dictionary name="Boaz">
     <words>
       <w>boaz</w>
+      <w>csvfile</w>
       <w>httpbin</w>
+      <w>khtml</w>
       <w>lxml</w>
       <w>releasetime</w>
     </words>
